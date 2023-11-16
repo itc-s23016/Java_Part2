@@ -30,4 +30,16 @@ public class GeneralMember {
     public void setName(String name) {
         this.name = name;
     }
+
+    public int fee() {
+        return lesson.fee();
+    }
+
+    public String getLessonId() {
+        return lesson.getLessonId();
+    }
+
+    public String getLessonName() {
+        return lesson.getLessonName();
+    }
 }
