@@ -1,4 +1,4 @@
-package chapter11;
+package chapter11_1;
 
 public class Main {
 //    匿名クラス

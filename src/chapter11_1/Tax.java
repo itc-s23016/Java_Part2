@@ -1,4 +1,4 @@
-package chapter11;
+package chapter11_1;
 
 import chapter10_2.RateIntf;
 
